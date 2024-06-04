@@ -12,11 +12,11 @@ amalni Tanlang:(1/2/3/4):
 
 if (amal === "1") {
     alert(`${son1} + ${son2} = ${son1 + son2}`)
-} else if (amal === 2){
-    alert(`${son1} + ${son2} = ${son1 + son2}`)
-} else if (amal === 3){
-    alert(`${son1} + ${son2} = ${son1 + son2}`)
-} else if (amal === 4){
-    alert(`${son1} + ${son2} = ${son1 + son2}`)
+} else if (amal === "2"){
+    alert(`${son1} - ${son2} = ${son1 - son2}`)
+} else if (amal === "3"){
+    alert(`${son1} * ${son2} = ${son1 * son2}`)
+} else if (amal === "4"){
+    alert(`${son1} / ${son2} = ${son1 / son2}`)
 }
 
